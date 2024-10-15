@@ -13,6 +13,9 @@ This project is a Qt-based C++ application for calculating various types of CRC 
 ## Screenshots
 [![Results](media/checksum.png)](media/checksum.mp4)
 
+## Note 
+A video have been uploaded to demonstrate how the app works and explain its features. If the video do not play directly in this document(README.md), you can find it in the media folder for offline viewing.
+
 ## Requirements
 - **Qt Framework**: Install the Qt libraries to build and run the application.
 - **C++ Compiler**: Make sure you have a C++11 compliant compiler.
